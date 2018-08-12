@@ -9,6 +9,7 @@
 |orange|200|
 
 
+```shell
 git clone: リポジトリダウンロード
 git status: 今の状態を見る
 git diff: masterとの差分を見る
@@ -24,3 +25,4 @@ git commit -m "init": メッセージ（変更した理由）
 git push origin HEAD: push
 
 git pull: 最新のリポジトリをとってくるよ（更新)
+```
